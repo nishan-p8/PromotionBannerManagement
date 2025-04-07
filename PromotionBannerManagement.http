@@ -1,0 +1,6 @@
+@PromotionBannerManagement_HostAddress = http://localhost:5084
+
+GET {{PromotionBannerManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
